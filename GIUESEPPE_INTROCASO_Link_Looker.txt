@@ -1,0 +1,4 @@
+REPORT DI GIUSEPPE INTROCASO,
+MODULO: GOOGLE LOOKER
+
+https://lookerstudio.google.com/reporting/932d8e62-fb32-42cd-a63e-de43494bd379
